@@ -8,11 +8,7 @@
 
 <body>
 
-    <script>
-        for(var i = 0; i <= 50; i++){
-            document.write(i+"<br>");
-        }
-    </script>
+   <h1> Hello, world! <\h1>
 
 </body>
 
